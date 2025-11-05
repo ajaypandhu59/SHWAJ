@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse with adjustable DPI.",
+    "price": 15.99,
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "name": "Mechanical Keyboard",
+    "description": "RGB backlit mechanical keyboard with blue switches.",
+    "price": 49.99,
+    "inStock": true
+  },
+  {
+    "id": 3,
+    "name": "USB-C Hub",
+    "description": "7-in-1 USB-C hub supporting HDMI, USB 3.0, SD card reader.",
+    "price": 29.95,
+    "inStock": true
+  },
+  {
+    "id": 4,
+    "name": "Noise Cancelling Headphones",
+    "description": "Over-ear Bluetooth headphones with active noise cancellation.",
+    "price": 89.99,
+    "inStock": false
+  },
+  {
+    "id": 5,
+    "name": "Webcam 1080p",
+    "description": "Full HD webcam with built-in microphone for video calls.",
+    "price": 39.99,
+    "inStock": true
+  },
+  {
+    "id": 6,
+    "name": "Portable SSD 500GB",
+    "description": "High-speed external SSD for fast data transfer.",
+    "price": 79.99,
+    "inStock": true
+  },
+  {
+    "id": 7,
+    "name": "Smartphone Stand",
+    "description": "Adjustable aluminum phone holder for desk use.",
+    "price": 12.99,
+    "inStock": true
+  },
+  {
+    "id": 8,
+    "name": "Laptop Cooling Pad",
+    "description": "Cooling pad with dual fans to prevent overheating.",
+    "price": 24.99,
+    "inStock": false
+  },
+  {
+    "id": 9,
+    "name": "Bluetooth Speaker",
+    "description": "Portable wireless speaker with deep bass.",
+    "price": 45.00,
+    "inStock": true
+  },
+  {
+    "id": 10,
+    "name": "External Monitor 24 inch",
+    "description": "Full HD monitor with HDMI and VGA support.",
+    "price": 129.99,
+    "inStock": true
+  },
+  {
+    "id": 11,
+    "name": "Wireless Charger",
+    "description": "Fast charging pad compatible with Qi-enabled devices.",
+    "price": 19.99,
+    "inStock": true
+  },
+  {
+    "id": 12,
+    "name": "Gaming Chair",
+    "description": "Ergonomic chair with lumbar support and adjustable armrests.",
+    "price": 199.99,
+    "inStock": false
+  },
+  {
+    "id": 13,
+    "name": "HDMI Cable 2m",
+    "description": "High-speed HDMI cable supporting 4K video.",
+    "price": 9.99,
+    "inStock": true
+  },
+  {
+    "id": 14,
+    "name": "Smartwatch",
+    "description": "Fitness tracker with heart rate monitor and notifications.",
+    "price": 59.99,
+    "inStock": true
+  },
+  {
+    "id": 15,
+    "name": "Wireless Earbuds",
+    "description": "Bluetooth earbuds with charging case and touch controls.",
+    "price": 49.50,
+    "inStock": true
+  },
+  {
+    "id": 16,
+    "name": "Power Bank 10,000mAh",
+    "description": "Compact power bank with fast charging support.",
+    "price": 25.99,
+    "inStock": true
+  },
+  {
+    "id": 17,
+    "name": "Laptop Backpack",
+    "description": "Water-resistant backpack with laptop compartment up to 15.6 inches.",
+    "price": 34.99,
+    "inStock": true
+  },
+  {
+    "id": 18,
+    "name": "Ethernet Cable 1m",
+    "description": "Cat6 ethernet cable for fast wired internet connections.",
+    "price": 5.99,
+    "inStock": true
+  },
+  {
+    "id": 19,
+    "name": "MicroSD Card 128GB",
+    "description": "High-speed microSD memory card for smartphones and cameras.",
+    "price": 19.99,
+    "inStock": true
+  },
+  {
+    "id": 20,
+    "name": "LED Desk Lamp",
+    "description": "Adjustable brightness LED lamp with USB charging port.",
+    "price": 22.99,
+    "inStock": false
+  }
+]
